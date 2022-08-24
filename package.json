@@ -1,0 +1,33 @@
+{
+  "name": "loan-calculate",
+  "version": "1.0.0",
+  "description": "Calculate monthly and total loan payments",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bisevac/loan-calculator.git"
+  },
+  "keywords": [
+    "loan",
+    "interest",
+    "calculate",
+    "amortize",
+    "mortgage"
+  ],
+  "author": {
+    "name": "Murat Deniz",
+    "email": "muratdbisevac@gmail.com",
+    "url": "https://github.com/bisevac"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bisevac/loan-calculator/issues"
+  },
+  "homepage": "https://github.com/bisevac/loan-calculator#readme"
+}
